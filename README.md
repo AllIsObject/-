@@ -1,4 +1,4 @@
-![timg](.\timg.jpg)
+![timg](<https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/timg.jpg)
 
 # 游戏名：品如的复仇
 
@@ -28,8 +28,8 @@ P2:  (小键盘)
 
 
 
-![2020-02-02_174910](.\2020-02-02_174910.jpg)
+![2020-02-02_174910](<https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/2020-02-02_174910.jpg)
 
 ![2020-02-02_174926](.\2020-02-02_174926.jpg)
 
-![2020-02-02_174948](.\2020-02-02_174948.jpg)
+![2020-02-02_174948](<https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/2020-02-02_174948.jpg)
