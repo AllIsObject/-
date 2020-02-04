@@ -28,8 +28,8 @@ P2:  (小键盘)
 
 
 
-![2020-02-02_174910](<https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/2020-02-02_174910.jpg)
+![2020-02-02_174910](https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/2020-02-02_174910.jpg)
 
-![2020-02-02_174926](.\2020-02-02_174926.jpg)
+![2020-02-02_174926](https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/2020-02-02_174926.jpg)
 
-![2020-02-02_174948](<https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/2020-02-02_174948.jpg)
+![2020-02-02_174948](https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/2020-02-02_174948.jpg)
