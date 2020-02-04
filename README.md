@@ -1,4 +1,4 @@
-![timg](<https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/timg.jpg)
+![timg](https://raw.githubusercontent.com/AllIsObject/Pinru-s-Revenge/master/timg.jpg)
 
 # 游戏名：品如的复仇
 
